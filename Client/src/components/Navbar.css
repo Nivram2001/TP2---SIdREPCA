@@ -1,0 +1,33 @@
+.navbar{
+    position: fixed;
+    text-align: justify;
+    display: flex;
+    background-color: #555555;
+    width: 100%;
+}
+.empresa{
+    margin: 0%;
+    margin-left: 5%;
+    margin-right: 5%;
+    color: red;
+    text-shadow: 2px 2px black;
+    display: flex;
+    width: 12%;
+}
+.first{
+    color: rgb(0, 0, 199);
+}
+li{
+    margin: 1%;
+    list-style: none;
+    width: 15%;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+
+#blue{
+    color: blue;
+    text-shadow: 1px 1px black;
+}

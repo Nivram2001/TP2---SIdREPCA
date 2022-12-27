@@ -1,0 +1,74 @@
+.Navio{
+    width: 95%;
+    margin-left: 2%;
+    margin-bottom: 2%;
+    border: 3px solid #eeeeee;
+    border-radius: 15px;
+    background-color: #222222;
+    display: flex;
+}
+
+.id{
+    border: 2PX solid white;
+    background-color: white;
+    color: black;
+    border-radius: 15px;
+    width: 15%;
+    font-size: 20px;
+    margin: 5px;
+    margin-left: 1%;
+    display: block;
+}
+.intro{
+    border-radius: 15px;
+    background-color: white;
+    color: black;
+    width: 65%;
+    margin: 5px;
+    margin-left: 1%;
+}
+.info{
+    text-align: justify;
+    padding: 5px;
+    margin: 5px;
+    font-size: 17px;
+    margin: 0%;
+    color: black;
+    text-shadow: none;
+}
+.atributo{
+    padding: 0px;
+    margin: 0px;
+    display: flex;
+    font-size: 13px;
+}
+.check{
+    padding: 5px;
+    margin: 5px;
+}
+.controls{
+    margin: 5px;
+    margin-left: 1%;
+    width: 15%;
+    background-color: white;
+    color: black;
+    border-radius: 15px;
+    display:block;
+}
+.btn_delete{
+    width: 90%;
+    background-color: red;
+    border: none;
+    border-radius: 15px;
+    font-size: 22px;
+    color: white;
+    margin-bottom: 5px;
+}
+.btn_update{
+    width: 90%;
+    background-color: blue;
+    border: none;
+    border-radius: 15px;
+    font-size: 22px;
+    color: white;
+}

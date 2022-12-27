@@ -1,0 +1,52 @@
+.box{
+    background-color: #555555;
+    border-radius: 15px;
+    width: 45%;
+    color: black;
+    margin-top: 6%;
+    margin-bottom: 5%;
+}
+h2{
+    text-align: justify;
+    margin: 5%;
+    color: black;
+    text-shadow: 2px 2px blue;
+    margin-bottom: 0%;
+}
+
+input{
+    width: 40%;
+    margin-left: 3%;
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+.inputs{
+    text-align: justify;
+    margin: 5%;
+}
+
+.btn_confirm{
+    background-color: blue;
+    font-size: 20px;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    padding: 5px;
+    width: 120px;
+    margin: 2%;
+}
+
+.btn_cancel{
+    background-color: red;
+    font-size: 20px;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    padding: 5px;
+    width: 120px;
+    margin: 2%;
+}
+h4{
+    text-align: left;
+}
